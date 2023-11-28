@@ -1,2 +1,2 @@
 # To-do-List
-To do list by Shreeelakshmi 
+To do list App by Shreeelakshmi 
